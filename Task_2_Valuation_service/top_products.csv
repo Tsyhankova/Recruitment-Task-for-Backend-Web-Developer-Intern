@@ -1,0 +1,4 @@
+matching_id,total_price,avg_price,currency,ignored_products_count
+1,6200.0,3100.0,GBP,1
+2,24500.0,12250.0,PLN,0
+3,12750.0,4250.0,EU,1
